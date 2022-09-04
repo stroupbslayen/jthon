@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "jthon"
-version = "1.0.2"
+version = "1.0.3"
 description = ""
 authors = ["StroupBSlayen <29642143+stroupbslayen@users.noreply.github.com>", "ProbsJustin <jmksobieski@gmail.com>"]
 
