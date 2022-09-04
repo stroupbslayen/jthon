@@ -39,17 +39,20 @@ More examples can be found in the examples folder
 Requirements
 -------------
 
-.. code:: python
+.. code::
     
-    python3.5 >
+    python3.6 >
 
 
 
 
 Authors
 =======
-* **StroupBSlayen** - [GitHub](https://github.com/stroupbslayen)
-* **ProbsJustin** - [GitHub](https://github.com/SobieskiCodes)
+* **StroupBSlayen** - `GitHub <https://github.com/stroupbslayen>`__
+* **ProbsJustin** - `GitHub <https://github.com/SobieskiCodes>`__
+
+.. _ProbsJustin:
+
 
 License
 ========
