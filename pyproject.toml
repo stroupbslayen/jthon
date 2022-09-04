@@ -1,6 +1,10 @@
 [tool.poetry]
 name = "jthon"
+<<<<<<< HEAD
 version = "1.0.2"
+=======
+version = "1.0.3"
+>>>>>>> 19872d1 (initial commit)
 description = ""
 authors = ["StroupBSlayen <29642143+stroupbslayen@users.noreply.github.com>", "ProbsJustin <jmksobieski@gmail.com>"]
 
